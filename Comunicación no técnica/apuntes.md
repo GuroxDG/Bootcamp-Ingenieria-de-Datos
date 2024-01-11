@@ -77,6 +77,12 @@
     + No todo lo que a ti no te parezca interesante no es importante
 - Capturar pero no abrumar: Es importante capturar la atención de tu audiencia y es aún más importante no perderla 
 
+# Interacción y retroalimentación
+* Fomentar preguntas e interacciones
+* Adapta tu enfoque
+* Retroalimentación - pedirla y darla
+
+
 # Conclusión
 
 * Entiende a tu audiencia - quienes son y que quieren
