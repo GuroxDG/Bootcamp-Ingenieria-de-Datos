@@ -48,4 +48,14 @@ Almacenan los datos en tablas, conectadas entre sí mediante relaciones.
 
 Utilizan un esquema para definir la estructura de los datos y garantizar su coherencia e integridad
 
+## Bases de datos no relacionales
+
+
+# Caso de estudio
+
+Aplicación móvil para maestros y padres se pueden comunicar
+* ¿Tipo de base de datos para la Aplicación?
+* ¿Tipo de base de datos para el análisis de los datos?
+
+
 
