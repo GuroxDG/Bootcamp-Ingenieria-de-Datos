@@ -137,9 +137,9 @@ Esto incluye medidas como el cifrado, el control de acceso y las copias de Segur
 
 # Links
 
-● https://dbeaver.io/
-● https://codigofacilito.com/cursos/base-datos-profesional
-● https://aws.amazon.com/es/solutions/implementations/data-lake-solution/
-● https://github.com/antares-sql/antares
-● https://azure.microsoft.com/es-mx/solutions/data-lake
-● https://www.linkedin.com/pulse/para-que-sirve-el-staging-area-oscar-fabi%C3%A1n-rojas-guti%C3%A9rrez/?originalSubdomain=es
+*  https://dbeaver.io/
+*  https://codigofacilito.com/cursos/base-datos-profesional
+*  https://aws.amazon.com/es/solutions/implementations/data-lake-solution/
+*  https://github.com/antares-sql/antares
+*  https://azure.microsoft.com/es-mx/solutions/data-lake
+*  https://www.linkedin.com/pulse/para-que-sirve-el-staging-area-oscar-fabi%C3%A1n-rojas-guti%C3%A9rrez/?originalSubdomain=es
