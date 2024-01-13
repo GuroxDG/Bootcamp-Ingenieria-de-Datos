@@ -135,3 +135,11 @@ Esto incluye medidas como el cifrado, el control de acceso y las copias de Segur
 
 * Recuerden que el panorama del almacenamiento de datos evoluciona continuamente, mantenerse informado sobre las nuevas tecnologías y las mejores prácticas es clave para tener éxito en la ingeniería de datos.
 
+# Links
+
+● https://dbeaver.io/
+● https://codigofacilito.com/cursos/base-datos-profesional
+● https://aws.amazon.com/es/solutions/implementations/data-lake-solution/
+● https://github.com/antares-sql/antares
+● https://azure.microsoft.com/es-mx/solutions/data-lake
+● https://www.linkedin.com/pulse/para-que-sirve-el-staging-area-oscar-fabi%C3%A1n-rojas-guti%C3%A9rrez/?originalSubdomain=es
