@@ -120,5 +120,18 @@ las soluciones de almacenamientoe en la nube como AWS S3, Azure Blob Storage y G
 * Seguridad: Cumplen normativas como GDPR, HIPAA, SOC2
 * Rentabilidad: Modelo de pago por uso
 
+## Seguridad y cumplimiento de normas
 
+La Seguridad de los datos almacenados es crucial para protegerse de las filtraciones y cumplir normas y leyes locales.
+
+Esto incluye medidas como el cifrado, el control de acceso y las copias de Seguridad periódicas.
+
+
+# Conclusión
+
+* La comprensión del almacenamiento de datos es crucial para que quienes nos desempeñamos en la ingeniería de datos diseñen sistemas eficientes y escalables.
+
+* Es la columna vertebral que sustenta la recuperación, el procesamiento y el análisis de datos.
+
+* Recuerden que el panorama del almacenamiento de datos evoluciona continuamente, mantenerse informado sobre las nuevas tecnologías y las mejores prácticas es clave para tener éxito en la ingeniería de datos.
 
