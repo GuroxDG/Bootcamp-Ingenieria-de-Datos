@@ -111,6 +111,14 @@ Los Data Lake son ideales para escenarios de Big Data y aprendizaje automático,
 
 Los Data Warehouses son mejores para la inteligencia empresarial (business intelligence) y el análisis de datos estructurados
 
+## Almacenamiento en la nube
+
+las soluciones de almacenamientoe en la nube como AWS S3, Azure Blob Storage y Google Cloud Storage ofrecen opciones escalables, seguras y rentables
+
+* Escalables: gestionar datos crecientes
+* Accesibilidad: acceso a través del internet
+* Seguridad: Cumplen normativas como GDPR, HIPAA, SOC2
+* Rentabilidad: Modelo de pago por uso
 
 
 
